@@ -1,0 +1,8 @@
+C:\Code\Prog2\Lab10\Laboratoire10\Laboratoire10\bin\Debug\Laboratoire10.exe.config
+C:\Code\Prog2\Lab10\Laboratoire10\Laboratoire10\bin\Debug\Laboratoire10.exe
+C:\Code\Prog2\Lab10\Laboratoire10\Laboratoire10\bin\Debug\Laboratoire10.pdb
+C:\Code\Prog2\Lab10\Laboratoire10\Laboratoire10\obj\Debug\Calculateur.csproj.AssemblyReference.cache
+C:\Code\Prog2\Lab10\Laboratoire10\Laboratoire10\obj\Debug\Calculateur.csproj.SuggestedBindingRedirects.cache
+C:\Code\Prog2\Lab10\Laboratoire10\Laboratoire10\obj\Debug\Calculateur.csproj.CoreCompileInputs.cache
+C:\Code\Prog2\Lab10\Laboratoire10\Laboratoire10\obj\Debug\Laboratoire10.exe
+C:\Code\Prog2\Lab10\Laboratoire10\Laboratoire10\obj\Debug\Laboratoire10.pdb

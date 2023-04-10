@@ -1,0 +1,8 @@
+C:\Code\Prog2\Lab10\Laboratoire10\Agence\bin\Debug\Agence.exe.config
+C:\Code\Prog2\Lab10\Laboratoire10\Agence\bin\Debug\Agence.exe
+C:\Code\Prog2\Lab10\Laboratoire10\Agence\bin\Debug\Agence.pdb
+C:\Code\Prog2\Lab10\Laboratoire10\Agence\obj\Debug\Agence.csproj.AssemblyReference.cache
+C:\Code\Prog2\Lab10\Laboratoire10\Agence\obj\Debug\Agence.csproj.SuggestedBindingRedirects.cache
+C:\Code\Prog2\Lab10\Laboratoire10\Agence\obj\Debug\Agence.csproj.CoreCompileInputs.cache
+C:\Code\Prog2\Lab10\Laboratoire10\Agence\obj\Debug\Agence.exe
+C:\Code\Prog2\Lab10\Laboratoire10\Agence\obj\Debug\Agence.pdb

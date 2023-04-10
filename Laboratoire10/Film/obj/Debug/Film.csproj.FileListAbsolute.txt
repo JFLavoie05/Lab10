@@ -1,0 +1,8 @@
+C:\Code\Prog2\Lab10\Laboratoire10\Film\obj\Debug\Film.csproj.AssemblyReference.cache
+C:\Code\Prog2\Lab10\Laboratoire10\Film\obj\Debug\Film.csproj.SuggestedBindingRedirects.cache
+C:\Code\Prog2\Lab10\Laboratoire10\Film\obj\Debug\Film.csproj.CoreCompileInputs.cache
+C:\Code\Prog2\Lab10\Laboratoire10\Film\bin\Debug\Film.exe.config
+C:\Code\Prog2\Lab10\Laboratoire10\Film\bin\Debug\Film.exe
+C:\Code\Prog2\Lab10\Laboratoire10\Film\bin\Debug\Film.pdb
+C:\Code\Prog2\Lab10\Laboratoire10\Film\obj\Debug\Film.exe
+C:\Code\Prog2\Lab10\Laboratoire10\Film\obj\Debug\Film.pdb
